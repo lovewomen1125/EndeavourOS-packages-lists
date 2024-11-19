@@ -1,1 +1,2 @@
+xsel
 zsh
