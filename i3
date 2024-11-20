@@ -14,6 +14,7 @@ dtc
 edk2-aarch64
 edk2-arm
 edk2-ovmf
+elfutils
 entr
 exfatprogs
 freeglut
