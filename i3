@@ -7,6 +7,8 @@ busybox
 capstone
 c-ares
 cdparanoia
+cmake
+cppdap
 dbus-glib
 dtc
 edk2-aarch64
@@ -25,6 +27,7 @@ http-parser
 ifuse
 iniparser
 iproute2
+jsoncpp
 kitty
 kitty-shell-integration
 kitty-terminfo
@@ -190,6 +193,7 @@ qemu-vhost-user-gpu
 qemu-vmsr-helper
 qt5-svg
 qt5-websockets
+rhash
 rustup
 sdl2_image
 seabios
