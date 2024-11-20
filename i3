@@ -161,6 +161,7 @@ tmux
 traceroute
 tree-sitter
 tree-sitter-c
+tree-sitter-cli
 tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-query
