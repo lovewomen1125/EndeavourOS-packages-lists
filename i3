@@ -4,7 +4,13 @@ kitty
 kitty-shell-integration
 kitty-terminfo
 libheif
+libluv
 librsync
+libutf8proc
+libvterm
+lua51-lpeg
+msgpack-c
+neovim
 otf-aurulent-nerd
 otf-codenewroman-nerd
 otf-comicshanns-nerd
@@ -20,6 +26,13 @@ otf-overpass-nerd
 power-profiles-daemon
 rustup
 tmux
+tree-sitter
+tree-sitter-c
+tree-sitter-lua
+tree-sitter-markdown
+tree-sitter-query
+tree-sitter-vim
+tree-sitter-vimdoc
 ttc-iosevka-slab
 ttf-0xproto-nerd
 ttf-3270-nerd
@@ -77,5 +90,6 @@ ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
 ttf-victor-mono-nerd
 ttf-zed-mono-nerd
+unibilium
 xsel
 zsh
