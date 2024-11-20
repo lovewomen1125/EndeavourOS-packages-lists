@@ -11,6 +11,7 @@ edk2-aarch64
 edk2-arm
 edk2-ovmf
 entr
+exfatprogs
 freeglut
 glu
 glusterfs
