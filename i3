@@ -2,6 +2,7 @@ aalib
 appstream
 brltty
 capstone
+c-ares
 cdparanoia
 dbus-glib
 dtc
@@ -33,6 +34,7 @@ libisofs
 liblouis
 libluv
 libnbd
+libngtcp2
 libosinfo
 librsync
 libshout
@@ -52,6 +54,7 @@ msgpack-c
 multipath-tools
 ndctl
 neovim
+nodejs
 numactl
 osinfo-db
 otf-aurulent-nerd
