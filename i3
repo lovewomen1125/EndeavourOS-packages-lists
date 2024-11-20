@@ -1,4 +1,6 @@
+dbus-glib
 entr
+gtk2
 iproute2
 kitty
 kitty-shell-integration
@@ -26,6 +28,7 @@ otf-overpass-nerd
 power-profiles-daemon
 rustup
 tmux
+traceroute
 tree-sitter
 tree-sitter-c
 tree-sitter-lua
