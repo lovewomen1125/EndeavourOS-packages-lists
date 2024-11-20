@@ -1,3 +1,4 @@
+appstream
 brltty
 capstone
 dbus-glib
@@ -8,11 +9,13 @@ edk2-ovmf
 entr
 glusterfs
 gtk2
+ifuse
 iniparser
 iproute2
 kitty
 kitty-shell-integration
 kitty-terminfo
+libadwaita
 libcacard
 libheif
 libiscsi
@@ -26,6 +29,7 @@ libtracefs
 libutf8proc
 libvterm
 libxdp
+libxmlb
 lua51-lpeg
 msgpack-c
 multipath-tools
@@ -45,6 +49,7 @@ otf-monaspace-nerd
 otf-opendyslexic-nerd
 otf-overpass-nerd
 power-profiles-daemon
+pyenv
 qemu-audio-alsa
 qemu-audio-dbus
 qemu-audio-jack
@@ -196,8 +201,11 @@ ttf-zed-mono-nerd
 unibilium
 usbredir
 vde2
+vim
+vim-runtime
 virglrenderer
 virtiofsd
 wolfssl
 xsel
+zenity
 zsh
