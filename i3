@@ -1,5 +1,6 @@
 aalib
 appstream
+brightnessctl
 brltty
 capstone
 c-ares
