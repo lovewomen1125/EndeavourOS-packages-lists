@@ -8,6 +8,7 @@ librsync
 power-profiles-daemon
 rustup
 tmux
+ttc-iosevka-slab
 ttf-iosevka-nerd
 xsel
 zsh
