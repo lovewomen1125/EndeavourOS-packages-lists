@@ -1,5 +1,6 @@
 aalib
 appstream
+bat
 brightnessctl
 brltty
 capstone
@@ -19,6 +20,7 @@ gst-plugins-base
 gst-plugins-good
 gtk2
 gtk-vnc
+http-parser
 ifuse
 iniparser
 iproute2
@@ -29,6 +31,7 @@ libadwaita
 libburn
 libcaca
 libcacard
+libgit2
 libheif
 libiscsi
 libisoburn
