@@ -66,7 +66,6 @@ msgpack-c
 multipath-tools
 ndctl
 neovim
-nodejs
 numactl
 osinfo-db
 otf-aurulent-nerd
