@@ -66,6 +66,7 @@ msgpack-c
 multipath-tools
 ndctl
 neovim
+nodejs-lts-iron
 numactl
 osinfo-db
 otf-aurulent-nerd
@@ -283,5 +284,6 @@ virt-manager
 wavpack
 wolfssl
 xsel
+yarn
 zenity
 zsh
