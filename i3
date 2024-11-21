@@ -38,11 +38,13 @@ libcaca
 libcacard
 libgit2
 libheif
+libinput
 libiscsi
 libisoburn
 libisofs
 liblouis
 libluv
+libmtp
 libnbd
 libngtcp2
 libosinfo
