@@ -72,6 +72,7 @@ mtools
 multipath-tools
 ndctl
 neovim
+nmap
 nodejs-lts-iron
 numactl
 osinfo-db
