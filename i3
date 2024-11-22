@@ -1,6 +1,7 @@
 aalib
 appstream
 bat
+bridge-utils
 brightnessctl
 brltty
 busybox
