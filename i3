@@ -27,6 +27,7 @@ gtk2
 gtk4
 gtk-update-icon-cache
 gtk-vnc
+hping
 http-parser
 ifuse
 iniparser
