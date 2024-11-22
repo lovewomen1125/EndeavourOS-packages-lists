@@ -65,6 +65,8 @@ libvterm
 libxdp
 libxmlb
 lua51-lpeg
+luajit
+luit
 msgpack-c
 mtools
 multipath-tools
