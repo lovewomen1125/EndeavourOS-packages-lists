@@ -23,6 +23,8 @@ glusterfs
 gst-plugins-base
 gst-plugins-good
 gtk2
+gtk4
+gtk-update-icon-cache
 gtk-vnc
 http-parser
 ifuse
@@ -63,6 +65,7 @@ libxdp
 libxmlb
 lua51-lpeg
 msgpack-c
+mtools
 multipath-tools
 ndctl
 neovim
@@ -204,6 +207,7 @@ spice
 spice-gtk
 spice-protocol
 taglib
+tinysparql
 tmux
 traceroute
 tree-sitter
