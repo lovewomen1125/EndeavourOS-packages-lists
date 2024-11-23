@@ -4,6 +4,7 @@ bat
 bridge-utils
 brightnessctl
 brltty
+btop
 busybox
 capstone
 c-ares
