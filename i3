@@ -11,7 +11,6 @@ cdparanoia
 cmake
 cppdap
 dbus-glib
-dev
 dtc
 edk2-aarch64
 edk2-arm
@@ -73,7 +72,6 @@ luit
 msgpack-c
 mtools
 multipath-tools
-n]
 ndctl
 neovim
 nmap
@@ -209,7 +207,6 @@ qt5-svg
 qt5-websockets
 rhash
 rustup
-s
 sdl2_image
 seabios
 spice
