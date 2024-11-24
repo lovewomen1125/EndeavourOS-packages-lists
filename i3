@@ -11,8 +11,11 @@ capstone
 c-ares
 cdparanoia
 cmake
+containerd
 cppdap
 dbus-glib
+docker
+docker-compose
 dtc
 edk2-aarch64
 edk2-arm
@@ -211,6 +214,7 @@ qemu-vmsr-helper
 qt5-svg
 qt5-websockets
 rhash
+runc
 rustup
 sdl2_image
 seabios
