@@ -298,3 +298,10 @@ xsel
 yarn
 zenity
 zsh
+ca-certificates-mozilla
+cmake
+linux
+linux-headers
+nss
+vte3
+vte-common
