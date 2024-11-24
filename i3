@@ -34,6 +34,7 @@ gtk-update-icon-cache
 gtk-vnc
 hping
 http-parser
+hyfetch
 ifuse
 iniparser
 iproute2
