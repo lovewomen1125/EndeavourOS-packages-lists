@@ -15,6 +15,7 @@ containerd
 cppdap
 dbus-glib
 docker
+docker-buildx
 docker-compose
 dtc
 edk2-aarch64
@@ -215,7 +216,9 @@ qemu-ui-spice-core
 qemu-user
 qemu-vhost-user-gpu
 qemu-vmsr-helper
+qt5-base
 qt5-svg
+qt5-translations
 qt5-websockets
 rhash
 runc
