@@ -6,6 +6,7 @@ brightnessctl
 brltty
 btop
 busybox
+ca-certificates-mozilla
 capstone
 c-ares
 cdparanoia
@@ -67,6 +68,8 @@ libvirt-python
 libvterm
 libxdp
 libxmlb
+linux
+linux-headers
 lua51-lpeg
 luajit
 luit
@@ -77,6 +80,7 @@ ndctl
 neovim
 nmap
 nodejs-lts-iron
+nss
 numactl
 osinfo-db
 otf-aurulent-nerd
@@ -292,16 +296,11 @@ virglrenderer
 virt-install
 virtiofsd
 virt-manager
+vte3
+vte-common
 wavpack
 wolfssl
 xsel
 yarn
 zenity
 zsh
-ca-certificates-mozilla
-cmake
-linux
-linux-headers
-nss
-vte3
-vte-common
