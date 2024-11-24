@@ -82,7 +82,10 @@ multipath-tools
 ndctl
 neovim
 nmap
+node-gyp
 nodejs-lts-iron
+nodejs-nopt
+npm
 nss
 numactl
 osinfo-db
@@ -218,6 +221,7 @@ runc
 rustup
 sdl2_image
 seabios
+semver
 spice
 spice-gtk
 spice-protocol
